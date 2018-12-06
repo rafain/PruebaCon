@@ -6,6 +6,7 @@ http://flask.pocoo.org/
 https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-8a25122ab1f3
 http://www.python-requests.org/en/latest/
 https://openweathermap.org/current
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#creating-a-basic-flask-application
 
 Ejercicio 2
 https://www.seleniumhq.org/projects/webdriver/
